@@ -10,6 +10,9 @@
 
 - **Cloud sync for saved guides and bookmarks**  
   Users will be able to sync their guides on Google Drive.
+
+- **Search for text on txt and pdf guides**
+- **Add translation capabilities**
   
 ## Future Ideas (Tentative)
 
