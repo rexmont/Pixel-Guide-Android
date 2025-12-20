@@ -8,9 +8,6 @@ https://github.com/rexmont/Pixel-Guide-Android/releases/latest
 
 If you enjoy browsing classic GameFAQs guides, maps, and charts, or you have your own guides you want to keep neatly organized, Pixel Guide is designed for you.
 
-It was inspired by the Pocket Codex app on iOS, but built specifically for Android devices.
-Pocket Codex can be found here: https://www.pocketcodex.app/
-
 ---
 
 ## What is Pixel Guide?
@@ -23,6 +20,9 @@ Pixel Guide allows you to:
 - Import your own guides in TXT, HTML, or PDF format
 
 The app is optimized for readability and works especially well on handheld gaming devices and tablets.
+
+It was inspired by the Pocket Codex app on iOS, but built specifically for Android devices.
+Pocket Codex can be found here: https://www.pocketcodex.app/
 
 ---
 
