@@ -11,6 +11,14 @@ If you enjoy browsing classic GameFAQs guides, maps, and charts, or you have you
 
 ---
 
+## Screenshots
+
+Below are some screenshots showcasing Pixel Guide in action.  
+(images/Preview1.jpg)
+(images/Preview2.png)
+
+---
+
 ## What is Pixel Guide?
 
 Pixel Guide allows you to:
