@@ -2,9 +2,7 @@
 
 Download and import game guides on your Android device
 
-Pixel Guide is a clean, offline-first game guide reader for Android.
-
-Pixel Guide can be downloaded from GitHub Releases:
+Pixel Guide is a clean, offline-first game guide reader for Android and it can be downloaded from GitHub Releases:
 
 https://github.com/rexmont/Pixel-Guide-Android/releases/latest
 
