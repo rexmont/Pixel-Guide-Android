@@ -2,12 +2,16 @@
 
 Download and import game guides on your Android device
 
-Pixel Guide is a clean, offline-first game guide reader for Android.  
-It was inspired by the Pocket Codex app on iOS, but built specifically for Android devices.
+Pixel Guide is a clean, offline-first game guide reader for Android.
 
-Pocket Codex can be found here: https://www.pocketcodex.app/
+Pixel Guide can be downloaded from GitHub Releases:
+
+https://github.com/rexmont/Pixel-Guide-Android/releases/latest
 
 If you enjoy browsing classic GameFAQs guides, maps, and charts, or you have your own guides you want to keep neatly organized, Pixel Guide is designed for you.
+
+It was inspired by the Pocket Codex app on iOS, but built specifically for Android devices.
+Pocket Codex can be found here: https://www.pocketcodex.app/
 
 ---
 
@@ -65,16 +69,6 @@ The app is optimized for readability and works especially well on handheld gamin
 - No telemetry
 - No tracking
 - No background analytics
-
----
-
-## Download
-
-Pixel Guide can be downloaded from GitHub Releases:
-
-https://github.com/rexmont/Pixel-Guide-Android/releases/latest
-
-This is an early release, and feedback is highly appreciated.
 
 ---
 
