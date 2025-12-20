@@ -74,7 +74,7 @@ The app only uses the network when downloading guides. Once downloaded, everythi
 
 Pixel Guide can be downloaded from GitHub Releases:
 
-https://github.com/rexmont/Pixel-Guide-Android/releases
+https://github.com/rexmont/Pixel-Guide-Android/releases/latest
 
 This is an early release, and feedback is highly appreciated.
 
