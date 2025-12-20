@@ -66,8 +66,6 @@ The app is optimized for readability and works especially well on handheld gamin
 - No tracking
 - No background analytics
 
-The app only uses the network when downloading guides. Once downloaded, everything works fully offline.
-
 ---
 
 ## Download
