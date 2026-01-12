@@ -8,6 +8,8 @@ https://github.com/rexmont/Pixel-Guide-Android/releases/latest
 
 If you enjoy browsing classic GameFAQs guides, maps, and charts, or you have your own guides you want to keep neatly organized, Pixel Guide is designed for you.
 
+Pixel Guide Website: https://pixelguide.app
+
 ---
 
 ## What is Pixel Guide?
