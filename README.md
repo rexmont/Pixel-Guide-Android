@@ -12,7 +12,7 @@ Pixel Guide Website: https://pixelguide.app
 
 Support Pixel Guide on Ko-fi:
 
-<a href="https://ko-fi.com/J3J3WWZKO" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'J3J3WWZKO');kofiwidget2.draw();</script>
 
 ---
 
